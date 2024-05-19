@@ -2,8 +2,8 @@
 - 👀 I’m interested in VLSI
 - 🌱 I’m currently leaning vlsi and doing UG in ECE
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: jagadeesh
+- 📫 How to reach me ...jbusired@gitam.in
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
 <!---
